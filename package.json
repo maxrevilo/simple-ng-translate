@@ -1,0 +1,23 @@
+{
+  "name": "simple-ng-translate",
+  "version": "0.0.1",
+  "description": "Simple translation for AngularJS (Cordova proof)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeoman/generator-angular.git"
+  },
+  "keywords": [
+    "translation",
+    "i18n"
+  ],
+  "author": "Oliver Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeoman/generator-angular/issues"
+  },
+  "homepage": "https://github.com/yeoman/generator-angular#readme"
+}
