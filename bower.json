@@ -1,0 +1,20 @@
+{
+  "name": "simple-ng-translate",
+  "description": "Simple translation for AngularJS (Cordova proof)",
+  "main": "dist/index.js",
+  "authors": [
+    "Oliver Pérez"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "translation",
+    "i18n"
+  ],
+  "ignore": [
+    "**/*",
+    "!dist/*.js",
+    "!README.md",
+    "!LICENSE"
+  ],
+  "homepage": "https://github.com/maxrevilo/simple-ng-translate",
+}

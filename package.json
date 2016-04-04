@@ -4,7 +4,7 @@
   "description": "Simple translation for AngularJS (Cordova proof)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,12 @@
   "author": "Oliver Pérez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yeoman/generator-angular/issues"
+    "url": "https://github.com/maxrevilo/simple-ng-translate/issues"
   },
-  "homepage": "https://github.com/yeoman/generator-angular#readme"
+  "homepage": "https://github.com/maxrevilo/simple-ng-translate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "mocha": "^2.4.5"
+  }
 }
